@@ -157,13 +157,6 @@ The app will launch locally at:
 
 http://127.0.0.1:7860
 
-### Home Interface
-
-home.png
-### Waste Detection Report
-
-detection.png
-
 ## Core AI Concepts Used
 ### AI Concept	Usage
 Zero-Shot Learning	Waste classification without custom training
